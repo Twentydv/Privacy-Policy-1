@@ -19,4 +19,4 @@
 Если у вас есть вопросы, вы можете связаться с разработчиком:
 Email: contactgmvgames@gmail.com
 Приложение: Normal Tablet 
-Разработчик: TwentyGM Studio
+Разработчик: TwentyGM Developer
